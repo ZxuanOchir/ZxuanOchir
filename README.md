@@ -30,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxuanochir&show_icons=true&locale=en&layout=compact" alt="zxuanochir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zxuanochir&show_icons=true&locale=en" alt="zxuanochir" /></p>
+
+![snake gif](https://github.com/ZxuanOchir/ZxuanOchir/blob/output/github-snake.svg)
