@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
 
-- 🤝 I’m looking for help with **DevOps, Frontend**
+- 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **ReactJS, Git, Html, Css, Docker, Linux**
+- 💬 Ask me about **ReactJS, Git, Docker, Linux**
 
 - 📫 How to reach me **munhochir94@gmail.com**
 
