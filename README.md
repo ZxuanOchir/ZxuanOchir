@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Munkh-Ochir</h1>
-<h3 align="center">A passionate frontend developer from Mongolia</h3>
+<h3 align="center">A passionate DevOps engineer from Mongolia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zxuanochir&label=Profile%20views&color=0e75b6&style=flat" alt="zxuanochir" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **ReactJS, Git, Docker, Linux**
+- 💬 Ask me about **AWS Git, Docker, Linux**
 
 - 📫 How to reach me **munhochir94@gmail.com**
 
